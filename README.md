@@ -1,5 +1,5 @@
 # 🍂 Hi, I'm Sam:
-I am a computer engineering student minioring<br>in comp sci with a focus in protyping 👽<br><br>Coding is an essential for everyone its a way to connect with computers <br>through a way they understand 🖥️<br><br>Feel freee to browse through my code diaries and if you have questions<br> reach out to me! ☺️
+I am a computer engineering student minioring<br>in comp sci with a focus in protyping 👽<br><br>Coding is an essential for everyone its a way to connect with computers <br>through a way they understand 🖥️<br><br>Feel freee to browse through my code diaries and if you have questions<br> reach out to me!! ☺️
 
 
 ## 🌐 Socials:
