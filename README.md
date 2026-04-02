@@ -14,7 +14,7 @@ I am a computer engineering student minioring<br>in comp sci with a focus in pro
 ![](https://github-readme-stats-snowy-alpha-56.vercel.app/api/top-langs/?username=samie-ino&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy-lyart.vercel.app/?username=samie-ino&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy-git-master-samoney2005s-projects.vercel.app/?username=samie-ino&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
