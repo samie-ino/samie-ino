@@ -17,6 +17,8 @@ I am a computer engineering student minioring<br>in comp sci with a focus in pro
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### 🐍 My Contributions
+![snake gif](https://github.com/samie-ino/samie-ino/blob/output/github-contribution-grid-snake.svg)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=samie-ino&icon=0&color=3)](https://visitcount.itsvg.in)
